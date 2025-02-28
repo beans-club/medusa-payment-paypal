@@ -1,5 +1,5 @@
 {
-  "name": "beans-club-medusa-payment-paypal",
+  "name": "@beans-club/medusa-payment-paypal",
   "version": "6.0.6",
   "description": "Paypal Payment provider for Medusa Commerce",
   "main": "dist/index.js",
@@ -52,6 +52,6 @@
   },
   "homepage": "https://github.com/medusajs/medusa#readme",
   "publishConfig": {
-    "@beans-club:registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
